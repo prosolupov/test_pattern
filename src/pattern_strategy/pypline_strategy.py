@@ -1,9 +1,7 @@
-from http import HTTPStatus
-
-from src.pattern_strategy.services.module.module import Module
+from src.pattern_strategy.module.module import Module
 
 
-class Pypline:
+class PyplineStrategy:
     """
     Класс Pypline для запуска и выполнения модулей
     """

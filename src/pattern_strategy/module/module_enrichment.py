@@ -1,4 +1,4 @@
-from src.pattern_strategy.models.module.module import Module
+from src.pattern_strategy.module.module import Module
 
 
 class ModuleEnrich(Module):

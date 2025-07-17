@@ -1,9 +1,8 @@
 import random
 import time
 from http import HTTPStatus
-from time import sleep
 
-from src.pattern_strategy.models.module.module import Module
+from src.pattern_strategy.module.module import Module
 
 
 class ModuleFeeds(Module):
