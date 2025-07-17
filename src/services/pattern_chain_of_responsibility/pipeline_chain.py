@@ -1,6 +1,6 @@
 from typing import Optional
 
-from src.pattern_chain_of_responsibility.module.module_chain import ModuleChain
+from src.services.pattern_chain_of_responsibility.module.module_chain import ModuleChain
 
 
 class PipelineChain:

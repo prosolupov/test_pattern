@@ -2,7 +2,7 @@ import random
 import time
 from http import HTTPStatus
 
-from src.pattern_strategy.module.module import Module
+from src.services.pattern_strategy.module.module import Module
 
 
 class ModuleFeeds(Module):
