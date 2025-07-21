@@ -1,5 +1,5 @@
-from src.Queue.fifo_queue import FifoQueue
-from src.Queue.priority_queue import PriorityQueue
+from src.queue.fifo_queue import FifoQueue
+from src.queue.priority_queue import PriorityQueue
 from src.services.pattern_chain_of_responsibility.module.module_chain_enrichment import ModuleChainEnrichment
 from src.services.pattern_chain_of_responsibility.module.module_chain_feeds import ModuleChainFeeds
 from src.services.pattern_chain_of_responsibility.pipeline_chain import PipelineChain
